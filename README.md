@@ -1,5 +1,5 @@
 ## Introduction 
-welcome to courages statistic calcultor, this is a javascript code that allows to perform some statistics problems
+welcome to courages statistic calculator, this is a javascript code that allows to perform some statistics problems
 
 ## Usage
 **Perform Calculations**
